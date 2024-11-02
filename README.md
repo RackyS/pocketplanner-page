@@ -5,7 +5,7 @@ Pocket Planner es una aplicación de gestión financiera diseñada para ayudar a
 ## Autores
 Ricardo Martín Moreno Blas 
 Estefano Valentino Garcia Diaz 
-Jairo Samuel Campos Davila
+Jairo Samuel Campos Dávila
 Fernando Sebastián Benel Uchofen
 
 ## Descripción del Proyecto
